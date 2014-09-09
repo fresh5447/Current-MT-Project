@@ -2,6 +2,7 @@ body {
     font-family: 'Droid Serif', sans-serif;
     background-color: #F6F5E0;
     padding-bottom: 50px;
+    padding-top: 66px;
 }
 .header-title {
     font-family: 'Droid Serif', serif;
@@ -39,6 +40,7 @@ a:visited a:active {
 }
 .mp-navbar {
     background-color: #ECEBD6;
+    width: 100%;
 }
 #map-image img {
     margin: 2em auto;
@@ -71,4 +73,18 @@ background: #F6F5E0;
     margin: 2em;
     padding: 1em;
     font-size: 1.2em;
+}
+
+.jumbotron {
+    background-color: #F6F5E0;
+    padding: 100px, 100px, 100px, 100px;
+    margin: 10px, 10px, 10px, 10px;
+}
+
+.media-box {
+    padding-bottom: 30px;
+}
+
+.media-object {
+    padding-right: 30px;
 }
